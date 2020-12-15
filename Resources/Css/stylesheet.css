@@ -1,0 +1,17 @@
+html,
+body {
+    background-color: black;
+    font-size: 16;
+    font-family: verdana;
+    text-align: center;
+}
+header h1 {
+    font-size: 3.125rem;
+    color: white;
+    font-weight: normal;
+}
+Main h4 {
+    text-decoration: underline;
+    color: aquamarine;
+    
+}

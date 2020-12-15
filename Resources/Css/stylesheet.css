@@ -15,3 +15,20 @@ Main h4 {
     color: aquamarine;
     
 }
+.guide h2 {
+    font-size: 2.625rem;
+    color: white;
+    font-weight: 300;
+}
+.guide h3 {
+    color: gray;
+    font-size: 1.3125rem;
+}
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 1.3125rem;
+}
+
+
+    
